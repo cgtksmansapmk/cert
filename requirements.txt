@@ -1,0 +1,5 @@
+pandas
+pillow
+openpyxl
+gspread
+img2pdf
